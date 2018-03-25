@@ -1,0 +1,136 @@
+c:\users\vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\bin\Debug\SJWPF.exe.config
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.csprojResolveAssemblyReference.cache
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\LogIn.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\App.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.cache
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.lref
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\bin\Debug\SJWPF.exe
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\bin\Debug\SJWPF.pdb
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\LogIn.baml
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.g.resources
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.Properties.Resources.resources
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.csproj.GenerateResource.Cache
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.exe
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\SJWPF.pdb
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\Admin.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\Admin.baml
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\JezikDIB.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\JezikDIB.baml
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\JezikIzmena.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\SJWPF\SJWPF\obj\Debug\JezikIzmena.baml
+C:\SJWPF\SJWPF\bin\Debug\SJWPF.exe.config
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.exe
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.pdb
+C:\SJWPF\SJWPF\bin\Debug\SJWPF.exe
+C:\SJWPF\SJWPF\bin\Debug\SJWPF.pdb
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.csprojResolveAssemblyReference.cache
+C:\SJWPF\SJWPF\obj\Debug\Admin.g.cs
+C:\SJWPF\SJWPF\obj\Debug\JezikDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\JezikIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\LogIn.g.cs
+C:\SJWPF\SJWPF\obj\Debug\App.g.cs
+C:\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.cache
+C:\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.lref
+C:\SJWPF\SJWPF\obj\Debug\Admin.baml
+C:\SJWPF\SJWPF\obj\Debug\JezikDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\JezikIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\LogIn.baml
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.g.resources
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.Properties.Resources.resources
+C:\SJWPF\SJWPF\obj\Debug\SJWPF.csproj.GenerateResource.Cache
+C:\SJWPF\SJWPF\obj\Debug\Jezici.g.cs
+C:\SJWPF\SJWPF\obj\Debug\Jezici.baml
+C:\SJWPF\SJWPF\obj\Debug\NivoiDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\NivoiDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\NivoiIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\NivoiIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\SkolaIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\SkolaPrikaz.g.cs
+C:\SJWPF\SJWPF\obj\Debug\SkolaIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\SkolaPrikaz.baml
+C:\SJWPF\SJWPF\obj\Debug\KorisniciDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\KorisniciDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\KorisnikIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\KorisnikIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\UceniciDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\UceniciDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\UcProfPrikazKurseva.g.cs
+C:\SJWPF\SJWPF\obj\Debug\UcProfPrikazKurseva.baml
+C:\SJWPF\SJWPF\obj\Debug\UcProfPrikazUplata.g.cs
+C:\SJWPF\SJWPF\obj\Debug\UcProfPrikazUplata.baml
+C:\SJWPF\SJWPF\obj\Debug\UcenikIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\UcenikIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\NastavniciDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\NastavniciDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\NastavnikIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\NastavnikIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\KorisnikMeni.g.cs
+C:\SJWPF\SJWPF\obj\Debug\KursDIB.g.cs
+C:\SJWPF\SJWPF\obj\Debug\KorisnikMeni.baml
+C:\SJWPF\SJWPF\obj\Debug\KursDIB.baml
+C:\SJWPF\SJWPF\obj\Debug\PrikazUcenika.g.cs
+C:\SJWPF\SJWPF\obj\Debug\PrikazUcenika.baml
+C:\SJWPF\SJWPF\obj\Debug\KursIzmena.g.cs
+C:\SJWPF\SJWPF\obj\Debug\KursIzmena.baml
+C:\SJWPF\SJWPF\obj\Debug\PrikazNastavnika.g.cs
+C:\SJWPF\SJWPF\obj\Debug\PrikazNastavnika.baml
+C:\SJWPF\SJWPF\obj\Debug\UplataProzor.g.cs
+C:\SJWPF\SJWPF\obj\Debug\UplataProzor.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\bin\Debug\SJWPF.exe.config
+C:\Users\vasic\Desktop\SJWPF\SJWPF\bin\Debug\SJWPF.exe
+C:\Users\vasic\Desktop\SJWPF\SJWPF\bin\Debug\SJWPF.pdb
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.csprojResolveAssemblyReference.cache
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Admin.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Jezici.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\JezikDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\JezikIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisniciDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisnikIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisnikMeni.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KursDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KursIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\LogIn.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NastavniciDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NastavnikIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NivoiDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NivoiIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\PrikazNastavnika.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\PrikazUcenika.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SkolaPrikaz.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UceniciDIB.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcenikIzmena.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcProfPrikazKurseva.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcProfPrikazUplata.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UplataProzor.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\App.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.cache
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF_MarkupCompile.lref
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Admin.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Jezici.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\JezikDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\JezikIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisniciDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisnikIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KorisnikMeni.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KursDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\KursIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\LogIn.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NastavniciDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NastavnikIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NivoiDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\NivoiIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\PrikazNastavnika.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\PrikazUcenika.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SkolaPrikaz.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UceniciDIB.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcenikIzmena.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcProfPrikazKurseva.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UcProfPrikazUplata.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\UplataProzor.baml
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.g.resources
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.Properties.Resources.resources
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.csproj.GenerateResource.Cache
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.exe
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\SJWPF.pdb
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Info.g.cs
+C:\Users\vasic\Desktop\SJWPF\SJWPF\obj\Debug\Info.baml

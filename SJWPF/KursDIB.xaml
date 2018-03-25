@@ -1,0 +1,29 @@
+﻿<Window x:Class="SJWPF.KursDIB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Kursevi" Height="670.751" Width="607.546">
+    <Grid>
+        <DataGrid x:Name="dgKursevi" ColumnWidth="*" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Height="367" Width="575" SelectionChanged="dataGrid_SelectionChanged"/>
+        <Button x:Name="btnUcenici" Content="Ucenici" HorizontalAlignment="Left" Margin="40,415,0,0" VerticalAlignment="Top" Width="97" Height="37" Click="btnUcenici_Click" />
+        <Button x:Name="btnNastavnici" Content="Nastavnici" HorizontalAlignment="Left" Margin="445,415,0,0" VerticalAlignment="Top" Width="102" Height="37" Click="btnNastavnici_Click" />
+        <RadioButton x:Name="rbAktivni" Content="Aktivni" HorizontalAlignment="Left" Margin="40,482,0,0" VerticalAlignment="Top" Checked="rbAktivni_Checked"/>
+        <RadioButton x:Name="rbNeaktivni" Content="Izbrisani" HorizontalAlignment="Left" Margin="258,482,0,0" VerticalAlignment="Top" Checked="rbNeaktivni_Checked"/>
+        <RadioButton x:Name="rbSvi" Content="Svi kursevi" HorizontalAlignment="Left" Margin="445,482,0,0" VerticalAlignment="Top" Checked="rbSvi_Checked"/>
+        <Button x:Name="btnDodavanje" Content="Dodaj" HorizontalAlignment="Left" Margin="40,590,0,0" VerticalAlignment="Top" Width="97" Click="btnDodavanje_Click"/>
+        <Button x:Name="btnIzmena" Content="Izmeni" HorizontalAlignment="Left" Margin="245,590,0,0" VerticalAlignment="Top" Width="99" Click="btnIzmena_Click"/>
+        <Button x:Name="btnBrisanje" Content="Izbrisi" HorizontalAlignment="Left" Margin="446,590,0,0" VerticalAlignment="Top" Width="103" Click="btnBrisanje_Click"/>
+        <Button x:Name="btnUplate" Content="Uplate" HorizontalAlignment="Left" Margin="245,415,0,0" VerticalAlignment="Top" Width="97" Height="37" Click="btnUplate_Click" />
+        <Label x:Name="label" Content="Jezik:" HorizontalAlignment="Left" Margin="40,540,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.579,-0.288" Width="55"/>
+        <TextBox x:Name="tbJezik" HorizontalAlignment="Left" Height="23" Margin="95,543,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="147" TextChanged="tbJezik_TextChanged"/>
+        <Label x:Name="label1" Content="Sortiranje:" HorizontalAlignment="Left" Margin="40,506,0,0" VerticalAlignment="Top" Height="24" Width="73"/>
+        <RadioButton x:Name="rbSortJezik" Content="Po jeziku" HorizontalAlignment="Left" Margin="136,512,0,0" VerticalAlignment="Top" Checked="rbSortJezik_Checked"/>
+        <RadioButton x:Name="rbSortTip" Content="Po Tipu" HorizontalAlignment="Left" Margin="258,512,0,0" VerticalAlignment="Top" Checked="rbSortTip_Checked"/>
+        <Label Content="Tip: " HorizontalAlignment="Left" Margin="286,540,0,0" VerticalAlignment="Top" Width="67"/>
+        <TextBox x:Name="tbTip" HorizontalAlignment="Left" Height="23" Margin="374,540,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="173" TextChanged="tbTip_TextChanged"/>
+
+    </Grid>
+</Window>

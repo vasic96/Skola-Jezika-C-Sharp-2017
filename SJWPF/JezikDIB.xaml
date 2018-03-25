@@ -1,0 +1,22 @@
+﻿<Window x:Class="SJWPF.JezikDIB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Jezici" Height="543" Width="388">
+    <Grid>
+        <DataGrid x:Name="dgJezici" ColumnWidth="*" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="351" Height="310" SelectionChanged="dgJezici_SelectionChanged"/>
+        <Label x:Name="label" Content="Pretraga:" HorizontalAlignment="Left" Margin="10,325,0,0" VerticalAlignment="Top" Width="84" Height="27"/>
+        <Label x:Name="label1" Content="Oznaka:" HorizontalAlignment="Left" Margin="10,357,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="tbOznaka" HorizontalAlignment="Left" Height="26" Margin="76,357,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="285" TextChanged="tbOznaka_TextChanged"/>
+        <Button x:Name="btnDodavanje" Content="Dodaj" HorizontalAlignment="Left" Margin="10,482,0,0" VerticalAlignment="Top" Width="75" Click="btnDodavanje_Click"/>
+        <Button x:Name="btnBrisanje" Content="Izbrisi" HorizontalAlignment="Left" Margin="286,482,0,0" VerticalAlignment="Top" Width="75" Click="btnBrisanje_Click"/>
+        <Button x:Name="btnIzmena" Content="Izmena" HorizontalAlignment="Left" Margin="146,482,0,0" VerticalAlignment="Top" Width="75" Click="btnIzmena_Click" />
+        <RadioButton x:Name="rbAktivni" Content="Aktivni" HorizontalAlignment="Left" Margin="39,435,0,0" VerticalAlignment="Top" Checked="rbAktivni_Checked"/>
+        <RadioButton x:Name="rbIzbrisani" Content="Izbrisani" HorizontalAlignment="Left" Margin="168,435,0,0" VerticalAlignment="Top" Checked="rbIzbrisani_Checked"/>
+        <RadioButton x:Name="rbSvi" Content="Svi jezici" IsChecked="True" HorizontalAlignment="Left" Margin="272,435,0,0" VerticalAlignment="Top" Checked="rbSvi_Checked"/>
+
+    </Grid>
+</Window>

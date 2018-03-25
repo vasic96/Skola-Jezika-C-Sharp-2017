@@ -1,0 +1,17 @@
+﻿<Window x:Class="SJWPF.PrikazNastavnika"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+           Title="Nastavnici" Height="432.487" Width="612.183"
+        Closing="Window_Closing">
+    <Grid>
+        <DataGrid x:Name="dgNastavnici" ColumnWidth="*" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="265" Width="584"/>
+        <Button x:Name="btnDodaj" Content="Dodaj u kurs" HorizontalAlignment="Left" Margin="50,293,0,0" VerticalAlignment="Top" Width="119" Height="33" Click="btnDodaj_Click"/>
+        <Button x:Name="btnIzbaci" Content="Izbaci iz kursa" HorizontalAlignment="Left" Margin="428,293,0,0" VerticalAlignment="Top" Width="127" Height="33" Click="btnIzbaci_Click"/>
+        <CheckBox x:Name="cbVanKursa" Content="Nastavnici van kursa" HorizontalAlignment="Left" Margin="252,293,0,10" Width="120" Checked="cbVanKursa_Checked" Unchecked="cbVanKursa_Unchecked"/>
+
+    </Grid>
+</Window>

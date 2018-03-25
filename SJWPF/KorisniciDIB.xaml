@@ -1,0 +1,29 @@
+﻿<Window x:Class="SJWPF.KorisniciDIB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Korisnici" Height="411.538" Width="562.128">
+    <Grid Margin="0,0,2,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="382*"/>
+            <ColumnDefinition Width="163*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dgKorisnici" ColumnWidth="*"  HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="211" Width="525" SelectionChanged="dgKorisnici_SelectionChanged" Grid.ColumnSpan="2"/>
+        <Label x:Name="label"   Content="Pretraga" HorizontalAlignment="Left" Margin="218,226,0,0" VerticalAlignment="Top" Width="94" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Ime:" HorizontalAlignment="Left" Margin="10,252,0,0" VerticalAlignment="Top" Width="60"/>
+        <TextBox x:Name="tbIme" HorizontalAlignment="Left" Height="23" Margin="75,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" TextChanged="tbIme_TextChanged"/>
+        <Label x:Name="label2" Content="Prezime:" HorizontalAlignment="Left" Margin="265,257,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="tbPrezime" HorizontalAlignment="Left" Height="23" Margin="343,256,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="192" TextChanged="tbPrezime_TextChanged" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="rbAktivni" Content="Aktivni" HorizontalAlignment="Left" Margin="10,284,0,0" VerticalAlignment="Top" Height="27" Checked="rbAktivni_Checked"/>
+        <RadioButton x:Name="rbObrisani" Content="Obrisani" HorizontalAlignment="Left" Margin="241,284,0,0" VerticalAlignment="Top" Height="27" Checked="rbObrisani_Checked"/>
+        <RadioButton x:Name="rbSvi" Content="Svi korisnici" HorizontalAlignment="Left" Margin="25,287,0,0" VerticalAlignment="Top" Height="24" Width="128" Checked="rbSvi_Checked" Grid.Column="1"/>
+        <Button x:Name="btnDodavanje" Content="Dodaj
+" HorizontalAlignment="Left" Margin="10,336,0,0" VerticalAlignment="Top" Width="75" Click="btnDodavanje_Click"/>
+        <Button x:Name="btnIzmena" Content="Izmena" HorizontalAlignment="Left" Margin="229,336,0,0" VerticalAlignment="Top" Width="75" Click="btnIzmena_Click"/>
+        <Button x:Name="btnBrisanje" Content="Izbrisi" HorizontalAlignment="Left" Margin="78,336,0,0" VerticalAlignment="Top" Width="75" Click="btnBrisanje_Click" Grid.Column="1"/>
+
+    </Grid>
+</Window>

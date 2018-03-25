@@ -1,0 +1,23 @@
+﻿<Window x:Class="SJWPF.JezikIzmena"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Jezik" Height="265" Width="297.696">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Background="Silver" Height="172" VerticalAlignment="Top" Width="292">
+            <Label x:Name="label" Content="Naziv: " HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Width="85" Height="29"/>
+            <Label x:Name="label1" Content="Oznaka: " HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Width="85"/>
+            <TextBox x:Name="tbNaziv" HorizontalAlignment="Left" Height="29" Margin="162,19,0,0" Text="{Binding Path=NazivJezika}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="tbOznaka" HorizontalAlignment="Left" Height="26" Margin="162,79,0,0" TextWrapping="Wrap" Text="{Binding Path=Oznaka}" VerticalAlignment="Top" Width="120"/>
+            <Label x:Name="label2" Content="Status" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="85"/>
+            <CheckBox x:Name="cbStatus" IsChecked="{Binding Path=Status}" Content="aktivan" HorizontalAlignment="Left" Margin="162,130,0,0" VerticalAlignment="Top" Height="26" Width="65"/>
+
+        </Grid>
+        <Button x:Name="btnSave" Content="Sacuvaj" HorizontalAlignment="Left" Margin="27,194,0,0" VerticalAlignment="Top" Width="75" Click="btnSave_Click"/>
+        <Button x:Name="btnCancel" Content="Otkazi" HorizontalAlignment="Left" Margin="180,194,0,0" VerticalAlignment="Top" Width="75" Click="btnCancel_Click"/>
+
+    </Grid>
+</Window>

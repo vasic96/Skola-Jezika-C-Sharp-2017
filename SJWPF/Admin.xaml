@@ -1,0 +1,19 @@
+﻿<Window x:Class="SJWPF.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Administrator" Height="393.023" Width="233.721">
+    <Grid>
+        <Button x:Name="btnKorisnici" Content="Korisnici" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnKorisnici_Click"/>
+        <Button x:Name="btnNastavnici" Content="Nastavnici" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnNastavnici_Click"/>
+        <Button x:Name="btnUcenici" Content="Ucenici" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnUcenici_Click"/>
+        <Button x:Name="btnJezici" Content="Jezici" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnJezici_Click"/>
+        <Button x:Name="btnTipovi" Content="Nivoi" HorizontalAlignment="Left" Margin="10,170,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnTipovi_Click"/>
+        <Button x:Name="btnSkola" Content="Skola" HorizontalAlignment="Left" Margin="10,210,0,0" VerticalAlignment="Top" Width="206" Height="35" Click="btnSkola_Click"/>
+        <Button x:Name="btnOdjava" IsCancel="True" Content="Odjava" HorizontalAlignment="Left" Margin="64,307,0,0" VerticalAlignment="Top" Width="100" Height="45" Click="btnOdjava_Click_1"/>
+
+    </Grid>
+</Window>

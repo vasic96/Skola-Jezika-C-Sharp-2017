@@ -1,0 +1,26 @@
+﻿<Window x:Class="SJWPF.UceniciDIB"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SJWPF"
+        mc:Ignorable="d"
+        Title="Ucenici" Height="445.85" Width="568.056">
+    <Grid>
+        <DataGrid x:Name="dgUcenici" ColumnWidth="*" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="223" Width="534" SelectionChanged="dgUcenici_SelectionChanged"/>
+        <Label x:Name="label" Content="Pretraga" HorizontalAlignment="Left" Margin="226,238,0,0" VerticalAlignment="Top" Width="106" FontWeight="Bold"/>
+        <Label x:Name="label1" Content="Ime:" HorizontalAlignment="Left" Margin="10,263,0,0" VerticalAlignment="Top" Width="88"/>
+        <TextBox x:Name="tbIme" HorizontalAlignment="Left" Height="23" Margin="77,263,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163" TextChanged="tbIme_TextChanged"/>
+        <Label x:Name="label2" Content="Prezime:" HorizontalAlignment="Left" Margin="275,263,0,0" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="tbPrezime" HorizontalAlignment="Left" Height="23" Margin="366,263,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" TextChanged="tbPrezime_TextChanged"/>
+        <RadioButton x:Name="rbAktivni" Content="Aktivni" HorizontalAlignment="Left" Margin="10,317,0,0" VerticalAlignment="Top" Checked="rbAktivni_Checked"/>
+        <RadioButton x:Name="rbIzbrisani" Content="Izbrisani" HorizontalAlignment="Left" Margin="226,317,0,0" VerticalAlignment="Top" Checked="rbIzbrisani_Checked"/>
+        <RadioButton x:Name="rbSviUcenici" Content="Svi Ucenici" HorizontalAlignment="Left" Margin="444,317,0,0" VerticalAlignment="Top" Checked="rbSviUcenici_Checked"/>
+        <Button x:Name="btnKursevi" Content="Prikazi kurseve" HorizontalAlignment="Left" Margin="10,375,0,0" VerticalAlignment="Top" Width="88" Click="btnKursevi_Click"/>
+        <Button x:Name="btnDodavanje" Content="Dodaj" HorizontalAlignment="Left" Margin="257,375,0,0" VerticalAlignment="Top" Width="75" Click="btnDodavanje_Click"/>
+        <Button x:Name="btnIzmeni" Content="Izmeni" HorizontalAlignment="Left" Margin="366,375,0,0" VerticalAlignment="Top" Width="75" Click="btnIzmeni_Click"/>
+        <Button x:Name="btnIzbrisi" Content="Izbrisi" HorizontalAlignment="Left" Margin="469,375,0,0" VerticalAlignment="Top" Width="75" Click="btnIzbrisi_Click"/>
+        <Button x:Name="btnUplate" Content="Prikazi uplate" HorizontalAlignment="Left" Margin="132,375,0,0" VerticalAlignment="Top" Width="93" Click="btnUplate_Click"/>
+
+    </Grid>
+</Window>
